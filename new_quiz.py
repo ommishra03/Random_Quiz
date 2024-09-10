@@ -19,7 +19,7 @@ def ask_questions(questions):
     return score
 
 def main():
-    filenames = [r"C:\Users\91914\Downloads\python_quiz.csv", r"C:\Users\91914\Downloads\question.csv"]
+    filenames = [paste the path of quiz data set]
     questions = load_questions(filenames)
     selected_questions = random.sample(questions, 10)
     score = ask_questions(selected_questions)
