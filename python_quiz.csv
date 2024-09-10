@@ -1,0 +1,101 @@
+question,answer
+What is the keyword used to define a function in Python?,def
+Which keyword is used to create a class in Python?,class
+What is the output of 5 // 2 in Python?,2
+What is the function used to read input from the user?,input
+What is the keyword used to handle exceptions in Python?,try
+Which method is used to add an item to a list?,append
+"What is the data type of [1, 2, 3] in Python?",list
+What is the function used to convert a string to an integer?,int
+Which module in Python is used to work with regular expressions?,re
+What is the keyword used to import a module?,import
+Which operator is used for string concatenation in Python?,+
+What is the output of 2 ** 3 in Python?,8
+What is the keyword used to exit a loop prematurely?,break
+What is the method used to remove an item from a list by value?,remove
+What is the method used to sort a list in ascending order?,sort
+What is the output of type(3.14) in Python?,float
+Which built-in function returns the length of a list?,len
+What is the function used to generate random numbers in Python?,randint
+What is the keyword used to define an anonymous function in Python?,lambda
+What is the output of bool(0) in Python?,FALSE
+What is the method used to split a string into a list?,split
+Which keyword is used to create an infinite loop?,while
+What is the output of 3 % 2 in Python?,1
+Which method is used to join elements of a list into a string?,join
+What is the keyword used to create a generator in Python?,yield
+Which built-in function is used to get the ASCII value of a character?,ord
+What is the function used to open a file in Python?,open
+Which module in Python is used to handle JSON data?,json
+What is the method used to remove whitespace from the beginning and end of a string?,strip
+What is the output of 5 < 10 in Python?,TRUE
+What is the keyword used to define an else-if condition in Python?,elif
+What is the function used to convert an integer to a string?,str
+What is the output of not True in Python?,FALSE
+What is the method used to reverse a list in place?,reverse
+Which module in Python is used for date and time manipulation?,datetime
+What is the output of 2 == 2 in Python?,TRUE
+What is the method used to add key-value pairs to a dictionary?,update
+Which keyword is used to continue to the next iteration of a loop?,continue
+What is the function used to check if a key exists in a dictionary?,in
+"What is the output of len(""Hello"") in Python?",5
+Which function is used to convert a list to a tuple?,tuple
+What is the keyword used to declare a global variable inside a function?,global
+What is the method used to get the index of an item in a list?,index
+What is the output of 3 <= 3 in Python?,TRUE
+Which function is used to get the maximum value in a list?,max
+What is the method used to convert a string to lowercase?,lower
+What is the output of 4 != 5 in Python?,TRUE
+Which function is used to get the minimum value in a list?,min
+What is the keyword used to return a value from a function?,return
+What is the method used to count occurrences of an item in a list?,count
+"What is the output of bool("""") in Python?",FALSE
+Which function is used to convert a string to a list of characters?,list
+What is the keyword used to define a new variable in Python?,var
+What is the method used to insert an item at a specific position in a list?,insert
+What is the output of 2 * 3 in Python?,6
+Which function is used to get the absolute value of a number?,abs
+What is the method used to remove the last item from a list?,pop
+What is the keyword used to create a new set?,set
+What is the output of bool(None) in Python?,FALSE
+Which function is used to convert a string to a floating-point number?,float
+What is the method used to find the position of a substring in a string?,find
+What is the output of 3 > 2 in Python?,TRUE
+Which function is used to check if all items in an iterable are true?,all
+What is the method used to replace a substring in a string?,replace
+What is the output of 2 + 2 in Python?,4
+Which function is used to check if any item in an iterable is true?,any
+What is the method used to capitalize the first character of a string?,capitalize
+What is the output of 5 - 3 in Python?,2
+Which function is used to round a number to the nearest integer?,round
+What is the keyword used to create a new tuple?,tuple
+What is the method used to convert a string to uppercase?,upper
+What is the output of 2 * 0 in Python?,0
+Which function is used to create a range of numbers?,range
+What is the keyword used to check if a variable is an instance of a particular class?,isinstance
+What is the method used to get a copy of a list?,copy
+What is the output of 5 / 2 in Python?,2.5
+Which function is used to check if a string starts with a specific substring?,startswith
+What is the method used to remove a key-value pair from a dictionary?,pop
+What is the keyword used to define a constant in Python?,const
+What is the output of bool([]) in Python?,FALSE
+Which function is used to concatenate two lists?,extend
+What is the method used to convert a string to title case?,title
+What is the output of 10 % 3 in Python?,1
+Which function is used to check if a string ends with a specific substring?,endswith
+What is the keyword used to define a new dictionary?,dict
+What is the method used to clear all items from a list?,clear
+What is the output of 3 ** 2 in Python?,9
+Which function is used to check if a variable is callable?,callable
+What is the method used to get all keys in a dictionary?,keys
+What is the keyword used to create a new list?,list
+What is the output of bool(1) in Python?,TRUE
+Which function is used to check the type of a variable?,type
+What is the method used to get all values in a dictionary?,values
+What is the output of len([]) in Python?,0
+Which function is used to get the power of a number?,pow
+What is the method used to get both keys and values in a dictionary?,items
+What is the output of 4 // 2 in Python?,2
+Which function is used to create a frozen set?,frozenset
+What is the method used to check if a list is empty?,len
+What is the output of True and False in Python?,FALSE
